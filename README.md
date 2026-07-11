@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
