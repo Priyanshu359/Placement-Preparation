@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
