@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
