@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
