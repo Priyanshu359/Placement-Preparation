@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
