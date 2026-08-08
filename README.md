@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0136-single-number) |
@@ -122,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
