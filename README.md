@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
@@ -128,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
