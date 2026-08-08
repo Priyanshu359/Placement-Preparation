@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
