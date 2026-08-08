@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
+| [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
