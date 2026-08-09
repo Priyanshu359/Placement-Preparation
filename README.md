@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1137-n-th-tribonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
