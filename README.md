@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
