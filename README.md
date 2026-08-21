@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
