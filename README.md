@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0049-group-anagrams) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
