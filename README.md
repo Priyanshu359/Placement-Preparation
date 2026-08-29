@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
