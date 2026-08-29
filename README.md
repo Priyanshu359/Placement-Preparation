@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0142-linked-list-cycle-ii) |
