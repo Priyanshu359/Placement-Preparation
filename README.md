@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 ## Simulation
@@ -226,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
