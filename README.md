@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
