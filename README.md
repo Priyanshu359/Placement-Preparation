@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
