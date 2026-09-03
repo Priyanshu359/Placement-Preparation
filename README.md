@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0682-baseball-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -234,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
