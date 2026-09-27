@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0503-next-greater-element-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 | [0706-design-hashmap](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0867-transpose-matrix) |
 ## Euclidean Algorithm
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 ## Quicksort
 |  |
 | ------- |
