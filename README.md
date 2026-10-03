@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0169-majority-element) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu359/Placement-Preparation/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
